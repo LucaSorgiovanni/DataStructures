@@ -1,5 +1,6 @@
 #ifndef NODE
 #define NODE
+
 class Node {
     private:
 
